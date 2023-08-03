@@ -1,0 +1,26 @@
+/* Write your CSS here */
+.liste_container {
+  margin: 10px;
+}
+.image1 {
+  height: 85px;
+  width: 200px;
+}
+.name_event {
+  font-size: 18px;
+  color: #ffffff;
+  font-weight: 400;
+  font-family: 'roboto';
+  margin-bottom: 1px;
+}
+.location_event {
+  margin-top: 2px;
+  font-size: 14px;
+  color: #ffffff;
+  font-family: 'roboto';
+}
+.mybutton {
+  background-color: transparent;
+  outline: 0px none;
+  /* border: 1px solid #2dd4bf; */
+}

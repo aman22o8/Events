@@ -1,0 +1,29 @@
+/* Write your CSS here */
+.main_container {
+  display: flex;
+}
+.left_side_container {
+  background-color: #3a4b63;
+  width: 60%;
+  /* height: 100vh; */
+  display: flex;
+  flex-grow: 1;
+  flex-direction: column;
+  padding: 25px;
+}
+.right_side {
+  width: 40%;
+}
+.main_heading {
+  font-size: 25px;
+  font-family: 'roboto';
+  font-weight: 500;
+  color: #ffffff;
+}
+.unorder {
+  list-style-type: none;
+  margin-left: 0px;
+  padding-left: 0px;
+  display: flex;
+  flex-wrap: wrap;
+}

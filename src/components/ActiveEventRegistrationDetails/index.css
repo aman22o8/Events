@@ -1,0 +1,43 @@
+/* Write your CSS here */
+.initial_req {
+  text-align: center;
+  margin-top: 15px;
+  font-size: 18px;
+  font-family: 'roboto';
+  color: #64748b;
+}
+.yetto {
+  height: 250px;
+  width: 80%;
+}
+.yettodesc {
+  font-size: 16px;
+  font-family: 'roboto';
+  color: #475569;
+}
+.btn {
+  background-color: #0967d2;
+  width: 80%;
+  height: 30px;
+  font-size: 16px;
+  border-radius: 8px;
+  font-family: 'roboto';
+  color: #ffffff;
+  text-align: center;
+}
+.closed_heading {
+  font-size: 18px;
+  font-family: 'roboto';
+  font-weight: 600;
+  color: #3a4b63;
+}
+.tick {
+  height: 55px;
+  width: 60px;
+}
+.alreadydesc {
+  font-size: 18px;
+  font-family: 'roboto';
+  font-weight: 800;
+  color: #3a4b63;
+}
